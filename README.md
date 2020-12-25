@@ -1,7 +1,10 @@
 ## Authors
 
->Linjun Shou, Ming Gong, Jian Pei, Xiubo Geng, Xingjie Zhou and Daxin Jiang
+>$$\texttt{Linjun\ Shou}^{\dagger}, \texttt{\ Ming\ Gong}^{\dagger}, \texttt{\ Jian\ Pei}^{\ddagger}, \texttt{\ Xiubo\ Geng}^{\dagger}, \texttt{\ Xingjie\ Zhou}^{\dagger} \ \texttt{and } \texttt{\ Daxin Jiang}^{\dagger}$$
 
+>$$^\dagger\texttt{Microsoft STCA NLP Group, Beijing, China}$$
+>$$^\ddagger\texttt{School of Computer Science, Simon Fraser University}$$
+>$$\texttt{lisho, migon, xigeng, xingzhou, djiang\}@microsoft.com\ jpei@cs.sfu.ca}$$
 
 
 ## Abstract
