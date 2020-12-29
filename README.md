@@ -50,7 +50,8 @@ Address: 5 Danling Street, Hai Dian, Beijing, China, 100080.  Email: migon@micro
 Address: 5 Danling Street, Hai Dian, Beijing, China, 100080.  Email: xigeng@microsoft.com.
 
 ### Xinjie Zhou
-**Xinjie Zhou, Ph.D., Senior Software Engineer Lead, Microsoft Software Technology Center Asia.** He received Ph.D. on natural language processing in 2017 from Peking University. His research interests include machine learning, natural language understanding, multilingual modeling, etc. He has good publications on top conferences including ACL, EMNLP, AAAI, etc.
+
+<img src="./figures/xinjie.jpg" align="left" width="15%" hspace="10" vspace="1"> **Xinjie Zhou, Ph.D., Senior Software Engineer Lead, Microsoft Software Technology Center Asia.** He received Ph.D. on natural language processing in 2017 from Peking University. His research interests include machine learning, natural language understanding, multilingual modeling, etc. He has good publications on top conferences including ACL, EMNLP, AAAI, etc.
 
 Address: Bldg \#25, 328 Xinghu Street, SIP, Suzhou, China, 215000.  Email: xinjzhou@microsoft.com.
 
