@@ -17,6 +17,10 @@ Natural Language Processing models have achieved impressive performance, thanks 
 
 In this tutorial, we systematically survey the frontier of language scaling using as examples the research, techniques, and engineering behind a series of concrete NLP applications in Microsoft products and services that need to be scaled out to 100+ languages. We start with a clear problem description for language scaling and an intuitive discussion on the overall challenges,. Then, we explore the problem from data perspective, including the availability of different types of training data as well as the evaluation benchmark data sets for various tasks. A large part of the tutorial will focus on various approaches to language scaling, including cross-lingual models, data augmentation, and language knowledge transferring algorithms. We have applied different approaches for various applications and built a platform to integrate our approaches. Using this platform we will demonstrate several case studies that have been shipped to Microsoft products, and share with the audience our lessons and experience learned. Finally, we will discuss several important challenges in this area and future directions.
 
+## Tutorial Materials 
+- [Introduction PDF](https://github.com/languagescaling/languagescaling.github.io/blob/main/TheWebConf'21_Tutorial_Scaling_out_NLP_Applications_to_100__Languages.pdf)
+- Slides coming soon.
+
 ## Presenters
 
 ### Daxin Jiang ([homepage](https://www.microsoft.com/en-us/research/people/djiang/))
