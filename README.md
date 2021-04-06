@@ -19,7 +19,7 @@ In this tutorial, we systematically survey the frontier of language scaling usin
 
 ## Tutorial Materials 
 - [Introduction PDF](https://github.com/languagescaling/languagescaling.github.io/blob/main/TheWebConf'21_Tutorial_Scaling_out_NLP_Applications_to_100__Languages.pdf)
-- Slides coming soon.
+- [Tutorial Slides](https://github.com/languagescaling/languagescaling.github.io/blob/main/Scaling-out-NLP-applications-to-100%2B-languages-slides.pdf)
 
 ## Presenters
 
